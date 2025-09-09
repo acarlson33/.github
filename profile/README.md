@@ -1,4 +1,4 @@
-# Hi there, I'm acarlson33! 👋
+# Hi there, I'm Alex Carlson! 👋
 
 ## 🚀 About Me
 
@@ -47,14 +47,14 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/acarlson33)
 - 📧 Email: [Get in touch](mailto:your.email@example.com)
 - 🐦 Twitter: [@acarlson33](https://twitter.com/acarlson33)
-- 🌐 Website: [acarlson33.dev](https://acarlson33.dev)
+- 🌐 Website: [cubbyholedev.me](https://cubbyholedev.me)
 
 ## 🎯 Fun Facts
 
 - 🌱 I'm always learning something new
 - 💡 I love solving complex problems
 - 🎮 Gaming enthusiast in my free time
-- ☕ Coffee fuels my coding sessions
+- ⚡ Monster energy drink fuels my coding sessions
 - 📚 Always reading about the latest tech trends
 
 ## 📈 Activity Graph
