@@ -30,7 +30,7 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 <!-- You can customize this section with your actual projects -->
 <div align="center">
   <a href="https://github.com/acarlson33">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=acarlson33&repo=blog&theme=dark&hide_border=true" alt="Awesome Project" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=acarlson33&repo=firepit&theme=dark&hide_border=true" alt="Awesome Project" />
   </a>
 </div>
 
