@@ -21,7 +21,7 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 
 ## 📊 GitHub Stats
 
-![acarlson33's Stats](./stats.svg) <br />
+![acarlson33's Stats](./profile/stats.svg) <br />
 
 ## 🤝 Let's Connect
 
