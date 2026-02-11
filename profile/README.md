@@ -21,25 +21,10 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 
 ## 📊 GitHub Stats
 
-![acarlson33's Stats](https://github-readme-stats.vercel.app/api?username=acarlson33&theme=dark&show_icons=true&hide_border=true&count_private=true) <br />
-![acarlson33's Streak](https://github-readme-streak-stats.herokuapp.com/?user=acarlson33&theme=dark&hide_border=true) <br />
-![acarlson33's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acarlson33&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
-## 🌟 Featured Projects
-
-<!-- You can customize this section with your actual projects -->
-<div align="center">
-  <a href="https://github.com/acarlson33">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=acarlson33&repo=firepit&theme=dark&hide_border=true" alt="Awesome Project" />
-  </a>
-</div>
+![acarlson33's Stats](./stats.svg) <br />
 
 ## 🤝 Let's Connect
 
-<!--- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/acarlson33)
-- 📧 Email: [Get in touch](mailto:your.email@example.com)
-- 🐦 Twitter: [@acarlson33](https://twitter.com/acarlson33)
--->
 - 🌐 Website: [cubbyholedev.me](https://cubbyholedev.me)
 
 ## 🎯 Fun Facts
