@@ -21,7 +21,7 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 
 ## 📊 GitHub Stats
 
-![acarlson33's Stats](./profile/stats.svg) <br />
+![acarlson33's Stats](https://github-readme-stats.vercel.app/api?username=acarlson33&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🤝 Let's Connect
 
