@@ -44,7 +44,7 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=acarlson33&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=acarlson33&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" />
   
   ✨ *"Code is like humor. When you have to explain it, it's bad."* ✨
 </div>
