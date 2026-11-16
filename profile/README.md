@@ -1,16 +1,10 @@
-# Hi there, I'm Autumn C.! 👋
+# Hi there, I'm Autumn !
 
-## 🚀 About Me
+## About Me
 
-I'm a passionate developer who loves creating innovative solutions and contributing to the open source community. Welcome to my GitHub profile!
+Uh I work with arch linux and linux in general, also websites/web apps. Big web nerd.
 
-## 🔭 What I'm Currently Working On
-
-- Building exciting projects and learning new technologies
-- Contributing to open source communities
-- Exploring the latest trends in software development
-
-## 🛠️ Technologies & Tools
+## Tech
 
 ![Languages](https://skills-icons.vercel.app/api/icons?i=js,ts,python,go&theme=dark)
 ![Frontend](https://skills-icons.vercel.app/api/icons?i=react,html,tailwindcss&theme=dark)
@@ -19,32 +13,19 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 ![DevOps](https://skills-icons.vercel.app/api/icons?i=appwrite&theme=dark)
 ![Tools](https://skills-icons.vercel.app/api/icons?i=git,vscode,archlinux,zsh&theme=dark)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![acarlson33's Stats](https://github-readme-stats.vercel.app/api?username=acarlson33&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-## 🤝 Let's Connect
+## Socials ?
 
-- 🌐 Website: [cubbyholedev.me](https://cubbyholedev.me)
+- Website: [cubbyholedev.me](https://cubbyholedev.me) (Under renovation)
 
-## 🎯 Fun Facts
 
-- 🌱 I'm always learning something new
-- 💡 I love solving complex problems
-- 🎮 Gaming enthusiast in my free time
-- ⚡ Monster energy drink(s) fuels my coding sessions
-- 📚 Always reading about the latest tech trends
-
-## 📈 Activity Graph
+## Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=acarlson33&bg_color=0d1117&color=ffffff&line=00ff00&point=ff6b6b&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=acarlson33&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" />
-  
-  ✨ *"Code is like humor. When you have to explain it, it's bad."* ✨
-</div>
+Apparently I can embed html in here,, didn't know that,,
