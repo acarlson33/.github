@@ -1,4 +1,4 @@
-# Hi there, I'm August Carlson! 👋
+# Hi there, I'm Autumn C.! 👋
 
 ## 🚀 About Me
 
